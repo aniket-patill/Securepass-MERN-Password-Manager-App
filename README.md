@@ -44,9 +44,6 @@ npm i @mui/material @emotion/react @emotion/styled @mui/icons-material
 
 **Database:** MongoDB
 
-**Payment Processing:** Stripe
-
-
 
 ## Run Locally
 
